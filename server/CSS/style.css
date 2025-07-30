@@ -1,0 +1,23 @@
+/* #tag2{
+    border: 2px solid black 
+
+} */
+ body{
+    margin:20px 10px;
+    font-size:20px;
+    
+ }
+
+ table,th,tr,td{
+    border:3px solid black;
+    border-collapse:collapse;
+ } 
+ th{
+    
+ }
+ header{
+    font-size:30px;
+ }
+ #header{
+    padding-left:100px;
+ }
